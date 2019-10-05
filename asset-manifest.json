@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blog_react_redux_02/static/css/main.94800295.chunk.css",
-    "main.js": "/blog_react_redux_02/static/js/main.c8d67c6d.chunk.js",
-    "main.js.map": "/blog_react_redux_02/static/js/main.c8d67c6d.chunk.js.map",
+    "main.js": "/blog_react_redux_02/static/js/main.b8da4982.chunk.js",
+    "main.js.map": "/blog_react_redux_02/static/js/main.b8da4982.chunk.js.map",
     "runtime~main.js": "/blog_react_redux_02/static/js/runtime~main.42372528.js",
     "runtime~main.js.map": "/blog_react_redux_02/static/js/runtime~main.42372528.js.map",
     "static/js/2.ce30d549.chunk.js": "/blog_react_redux_02/static/js/2.ce30d549.chunk.js",
     "static/js/2.ce30d549.chunk.js.map": "/blog_react_redux_02/static/js/2.ce30d549.chunk.js.map",
     "index.html": "/blog_react_redux_02/index.html",
-    "precache-manifest.8b8da088081e9769a7ad2c3bcab482c3.js": "/blog_react_redux_02/precache-manifest.8b8da088081e9769a7ad2c3bcab482c3.js",
+    "precache-manifest.445acea1c7758238a1cb31deb73c73a5.js": "/blog_react_redux_02/precache-manifest.445acea1c7758238a1cb31deb73c73a5.js",
     "service-worker.js": "/blog_react_redux_02/service-worker.js",
     "static/css/main.94800295.chunk.css.map": "/blog_react_redux_02/static/css/main.94800295.chunk.css.map",
     "static/media/loading.svg": "/blog_react_redux_02/static/media/loading.6fa42c2c.svg"
