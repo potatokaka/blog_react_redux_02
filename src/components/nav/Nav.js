@@ -38,12 +38,15 @@ const Nav = ({navChange}) => (
           <Item to="/"  navChange={navChange} exact={true}>
             Home
           </Item >
+
           <Item to="/post" navChange={navChange}>
             Post
           </Item>
+
           <Item to="/about" navChange={navChange}>
             About
           </Item>
+
           <Item to="/createPost" navChange={navChange}>
             New Post
           </Item>

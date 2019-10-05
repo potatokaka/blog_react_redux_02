@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './posts.css';
 
 class CreatePost extends Component {
   constructor(props) {
@@ -52,7 +53,7 @@ class CreatePost extends Component {
         </div>
         <br/>
         <label htmlFor='body' >Content: </label>
-        <textarea value={body} className='form-control' name='body' onChange={this.handleInputChange} id='content' />
+        <textarea value={body} className='form-control single-post__content__edit' name='body' onChange={this.handleInputChange} id='content' />
         <button className='btn btn-secondary mt-2' onClick={this.onSubmit}>submit</button>
 
       </div>

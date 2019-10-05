@@ -29,3 +29,7 @@
   width: 100%;
   height: 300px;
 }
+
+textarea.form-control {
+  height: 300px;
+}
